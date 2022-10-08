@@ -1,5 +1,8 @@
 .container{
     height:100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 #home{
     background-color:aqua;
@@ -12,6 +15,7 @@
 #like{
     background-color:greenyellow;
 }
+
 body{
     margin:0;
 }
