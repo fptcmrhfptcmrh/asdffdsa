@@ -1,0 +1,12 @@
+.container{
+    height:100%;
+}
+#home{
+    background-color:aqua;
+}
+#intro{
+    background-color:brown;
+}
+#like{
+    background-color:greenyellow;
+}
